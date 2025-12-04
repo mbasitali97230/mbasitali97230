@@ -1,22 +1,3 @@
-<!-- THEME-AWARE BANNER -->
-<p align="center">
-  <picture>
-    <!-- Dark Mode -->
-    <source media="(prefers-color-scheme: dark)"
-            srcset="https://raw.githubusercontent.com/mbasitali97230/mbasitali97230/main/banner-dark.svg.png">
-
-    <!-- Light Mode -->
-    <source media="(prefers-color-scheme: light)"
-            srcset="https://raw.githubusercontent.com/mbasitali97230/mbasitali97230/main/banner-light.svg.png">
-
-    <!-- Fallback -->
-    <img src="https://raw.githubusercontent.com/mbasitali97230/mbasitali97230/main/banner-light.svg.png"
-         alt="Basit Ali Banner"
-         width="100%">
-  </picture>
-</p>
-
----
 
 <!-- 3D WAVING HAND -->
 <p align="center">
