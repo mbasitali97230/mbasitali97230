@@ -24,7 +24,7 @@ A passionate and self-taught **Frontend Developer** focused on building smooth, 
 
 # 🌐 Visit My Portfolio  
 <p align="center">
-  <a href="https://mbasitali97230.github.io/portfolio/" target="_blank">
+  <a href="https://mbasitali97230.github.io/mbasitaliportfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-00C8FF?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
 </p>
