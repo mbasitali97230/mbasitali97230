@@ -24,7 +24,7 @@ A passionate and self-taught **Frontend Developer** focused on building smooth, 
 
 # 🌐 Visit My Portfolio  
 <p align="center">
-  <a href="https://muhammadbasit.vercel.app/" target="_blank">
+  <a href="https://muhammadbasitali.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-00C8FF?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
 </p>
