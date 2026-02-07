@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Muhammad Basit Ali | GitHub</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- Google Font -->
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: 'Poppins', sans-serif;
+    }
+
+    body {
+      height: 100vh;
+      background: linear-gradient(120deg, #0f2027, #203a43, #2c5364);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: #fff;
+      overflow: hidden;
+    }
+
+    .container {
+      text-align: center;
+      animation: fadeIn 2s ease-in-out;
+    }
+
+    h1 {
+      font-size: 3rem;
+      font-weight: 600;
+    }
+
+    h1 span {
+      color: #00ffd5;
+    }
+
+    .typing {
+      margin-top: 15px;
+      font-size: 1.5rem;
+      height: 40px;
+      color: #f1f1f1;
+    }
+
+    p {
+      margin-top: 20px;
+      font-size: 1rem;
+      opacity: 0.85;
+    }
+
+    a {
+      display: inline-block;
+      margin-top: 30px;
+      padding: 12px 30px;
+      border: 2px solid #00ffd5;
+      color: #00ffd5;
+      text-decoration: none;
+      font-weight: 500;
+      border-radius: 30px;
+      transition: all 0.3s ease;
+    }
+
+    a:hover {
+      background: #00ffd5;
+      color: #000;
+      transform: scale(1.05);
+    }
+
+    @keyframes fadeIn {
+      from {
+        opacity: 0;
+        transform: translateY(30px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+  <div class="container">
+    <h1>Hi, I’m <span>Muhammad Basit Ali</span></h1>
+
+    <div class="typing" id="typing"></div>
+
+    <p>
+      BS Computer Science Student • AI Enthusiast • Python & Frontend Developer  
+    </p>
+
+    <a href="https://github.com/mbasitali97230" target="_blank">
+      Visit My GitHub
+    </a>
+  </div>
+
+  <script>
+  const texts = [
+    "AI Student 🤖",
+    "Graphic Designer 🎨",
+    "Video Editor 🎬",
+    "Frontend Web Developer 💻",
+    "Learning. Building. Growing 🚀"
+  ];
+
+  let count = 0;
+  let index = 0;
+  let currentText = '';
+  let letter = '';
+
+  (function type() {
+    if (count === texts.length) {
+      count = 0;
+    }
+
+    currentText = texts[count];
+    letter = currentText.slice(0, ++index);
+
+    document.getElementById('typing').textContent = letter;
+
+    if (letter.length === currentText.length) {
+      setTimeout(() => {
+        index = 0;
+        count++;
+      }, 1500);
+    }
+
+    setTimeout(type, 100);
+  })();
+</script>
+
+
+</body>
+</html>
