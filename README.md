@@ -59,7 +59,7 @@
 ✔ Frontend + Full Stack Development
 ✔ UI/UX Modern Design
 
-📩 **Email:** [mbasit97230@gmail.com](mailto:mbasit97230@gmail.com)
+📩 **Email:** [mbasit97230@gmail.com](mailto:basitali97230@gmail.com)
 
 👉 Send me your requirements:
 
