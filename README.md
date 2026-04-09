@@ -1,79 +1,49 @@
+# 👨‍💻 About Me
 
-<!-- 3D WAVING HAND -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/hero/wave.gif" width="115px">
-</p>
+Hi, I'm **Muhammad Basit Ali** 👋
 
-<!-- TYPING SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00C8FF&center=true&vCenter=true&width=780&lines=Hi+I'm+Muhammad+Basit+Ali+👋;Frontend+Web+Developer;JavaScript+Learner;Welcome+To+My+GitHub+Profile!" />
-</p>
+💡 A passionate **Frontend + Full Stack Web Developer** who loves building modern, fast, and visually engaging web applications. I focus on creating smooth user experiences with clean code and real-world functionality.
+
+🚀 I specialize in turning ideas into fully functional websites — from **beautiful frontend designs** to **powerful backend systems**.
 
 ---
 
-# 👨‍💻 About Me  
-A passionate and self-taught **Frontend Developer** focused on building smooth, interactive, animation-rich user interfaces.
-A passionate and self-taught **Full stack Web-developer** focused on building smooth, interactive, animation-rich user interfaces.
+### 🔥 What I Do
 
-- 🌱 Learning **HTML, CSS, JavaScript**  
-- 🚀 Improving every day through real projects  
-- 🎨 Exploring **Web Animations, UI/UX, GSAP**  
-- 📱 Interested in **Responsive & Modern Frontend Design**  
-- 🔗 Connect with me on **[LinkedIn](https://www.linkedin.com/in/basit-ali-shams/)**  
+* 🎨 Design & develop **modern UI/UX interfaces**
+* ⚡ Build **responsive websites** (mobile-first)
+* 🧠 Develop **full stack web applications**
+* 🚀 Optimize performance & user experience
+* 🔧 Solve real-world problems through code
 
 ---
 
-# 🌐 Visit My Portfolio  
-<p align="center">
-  <a href="https://muhammadbasitali.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-00C8FF?style=for-the-badge&logo=google-chrome&logoColor=white">
-  </a>
-</p>
+### 🛠️ Tech Expertise
+
+* **Frontend:** HTML, CSS, JavaScript
+* **Backend:** Node.js, Express.js
+* **Database:** MongoDB
+* **Tools:** Git, GitHub, VS Code
 
 ---
 
-# 🛠️ Animated Tech Stack  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="55"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="55"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="55"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="55"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="55"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="55"/>
- 
-</p>
+### 🎯 My Goal
+
+To become a highly skilled **Full Stack Developer** and work on impactful projects that solve real-world problems while continuously improving my skills.
 
 ---
 
-# 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mbasitali97230&show_icons=true&theme=tokyonight&border_radius=12" height="160">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mbasitali97230&theme=tokyonight" height="160">
-</p>
+### 💼 Open For Work
+
+I'm available for:
+✔ Freelance Projects
+✔ Frontend Development
+✔ Full Stack Web Applications
+
+📩 **Let’s work together and build something amazing!**
 
 ---
 
-# 🚀 Contribution Activity  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mbasitali97230&theme=react-dark&color=00C8FF&line=00C8FF&point=FFFFFF&radius=8"/>
-</p>
+### 🌟 Developer Mindset
 
----
-
-# 🌐 Social Links  
-<p align="center">
-  <a href="https://www.linkedin.com/in/basit-ali-shams/"><img src="https://skillicons.dev/icons?i=linkedin" width="50"></a>
-  <a href="mailto:mbasit97230@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="50"></a>
-  <a href="https://github.com/mbasitali97230"><img src="https://skillicons.dev/icons?i=github" width="50"></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-</p>
-
-# 🎉 Thanks for Visiting!
-<p align="center">
-  ⭐ If you like my profile, don't forget to follow and explore my repositories! ⭐
-</p>
+> “Consistency, creativity, and continuous learning are the keys to becoming a great developer.” 🚀
