@@ -1,49 +1,71 @@
 # 👨‍💻 About Me
 
-Hi, I'm **Muhammad Basit Ali** 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00C8FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Muhammad+Basit+Ali+👋;Frontend+%2B+Full+Stack+Web+Developer;I+Build+Modern+Web+Experiences+🚀;Always+Learning+New+Technologies+⚡" />
+</p>
 
-💡 A passionate **Frontend + Full Stack Web Developer** who loves building modern, fast, and visually engaging web applications. I focus on creating smooth user experiences with clean code and real-world functionality.
+---
 
-🚀 I specialize in turning ideas into fully functional websites — from **beautiful frontend designs** to **powerful backend systems**.
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500"/>
+</p>
+
+---
+
+💡 I'm a passionate **Frontend + Full Stack Web Developer** who loves creating **modern, responsive, and high-performance web applications**.
+
+🚀 I turn ideas into reality using clean code, smooth animations, and scalable backend systems.
 
 ---
 
 ### 🔥 What I Do
 
-* 🎨 Design & develop **modern UI/UX interfaces**
-* ⚡ Build **responsive websites** (mobile-first)
-* 🧠 Develop **full stack web applications**
+* 🎨 Build **beautiful UI/UX interfaces**
+* ⚡ Create **fast & responsive websites**
+* 🧠 Develop **full stack applications**
 * 🚀 Optimize performance & user experience
-* 🔧 Solve real-world problems through code
 
 ---
 
-### 🛠️ Tech Expertise
+### 🛠️ Tech Stack
 
-* **Frontend:** HTML, CSS, JavaScript
-* **Backend:** Node.js, Express.js
-* **Database:** MongoDB
-* **Tools:** Git, GitHub, VS Code
-
----
-
-### 🎯 My Goal
-
-To become a highly skilled **Full Stack Developer** and work on impactful projects that solve real-world problems while continuously improving my skills.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,git,github,vscode"/>
+</p>
 
 ---
 
-### 💼 Open For Work
+### 📊 Quick Stats
 
-I'm available for:
-✔ Freelance Projects
-✔ Frontend Development
-✔ Full Stack Web Applications
-
-📩 **Let’s work together and build something amazing!**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mbasitali97230&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mbasitali97230&theme=tokyonight" height="150"/>
+</p>
 
 ---
 
-### 🌟 Developer Mindset
+### 🎯 My Mission
 
-> “Consistency, creativity, and continuous learning are the keys to becoming a great developer.” 🚀
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00C8FF&center=true&vCenter=true&width=700&lines=Becoming+an+Expert+Full+Stack+Developer;Building+Real+World+Projects;Learning+Every+Single+Day+🚀" />
+</p>
+
+---
+
+### 💼 Work With Me
+
+✔ Static Website
+✔ Dynamic Web App
+✔ Frontend + Full Stack Development
+✔ UI/UX Modern Design
+
+📩 **Email:** [mbasit97230@gmail.com](mailto:mbasit97230@gmail.com)
+
+👉 Send me your requirements:
+
+* Website type (Static/Dynamic)
+* Features
+* Pages
+* Budget
+
+---
