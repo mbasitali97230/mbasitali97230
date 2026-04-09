@@ -13,6 +13,7 @@
 
 # 👨‍💻 About Me  
 A passionate and self-taught **Frontend Developer** focused on building smooth, interactive, animation-rich user interfaces.
+A passionate and self-taught **Full stack Web-developer** focused on building smooth, interactive, animation-rich user interfaces.
 
 - 🌱 Learning **HTML, CSS, JavaScript**  
 - 🚀 Improving every day through real projects  
